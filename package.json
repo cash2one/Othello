@@ -9,7 +9,7 @@
   "scripts": {
     "realese": "webpack",
     "test": "karma start",
-    "postinstall": "npm install node-sass && typings install"
+    "postinstall": "npm install && typings install"
   },
   "author": "Cory",
   "license": "ISC",

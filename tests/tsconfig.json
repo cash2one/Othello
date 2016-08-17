@@ -1,0 +1,22 @@
+{
+    "compilerOptions": {
+        "declaration": false,
+        "module": "amd",
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "noImplicitAny": true,
+        "removeComments": false,
+        "sourceMap": false,
+        "target": "es5"
+    },
+    "filesGlob": [
+        "./**/*.ts",
+        "../typings/index.d.ts"
+    ],
+    "files": [
+        "../typings/index.d.ts"
+    ],
+    "compileOnSave": false,
+    "buildOnSave": false,
+    "atom": { "rewriteTsconfig": false }
+}

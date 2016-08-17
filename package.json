@@ -1,0 +1,52 @@
+{
+  "name": "cory",
+  "version": "1.0.0",
+  "description": "Othello game",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "realese": "webpack",
+    "test": "karma start",
+    "postinstall": "npm install node-sass && typings install"
+  },
+  "author": "Cory",
+  "license": "ISC",
+  "dependencies": {
+    "reflect-metadata": "^0.1.3",
+    "string": "^3.3.1"
+  },
+  "devDependencies": {
+    "bluebird": "^3.4.1",
+    "clean-webpack-plugin": "^0.1.10",
+    "css-loader": "^0.23.1",
+    "html-loader": "^0.4.3",
+    "jasmine": "^2.4.1",
+    "karma": "^1.1.1",
+    "karma-chrome-launcher": "^1.0.1",
+    "karma-cli": "^1.0.1",
+    "karma-coverage": "^1.1.1",
+    "karma-htmlfile-reporter": "^0.3.4",
+    "karma-jasmine": "^1.0.2",
+    "karma-phantomjs-launcher": "^1.0.1",
+    "karma-requirejs": "^1.0.0",
+    "karma-typescript-preprocessor2": "^1.2.1",
+    "karma-webpack": "^1.7.0",
+    "log4js": "^0.6.38",
+    "node-sass": "^3.8.0",
+    "phantomjs": "^2.1.7",
+    "postcss-import": "^8.1.2",
+    "postcss-loader": "^0.9.1",
+    "postcss-partial-import": "^2.0.0",
+    "precss": "^1.4.0",
+    "sass-loader": "^4.0.0",
+    "style-loader": "^0.13.1",
+    "ts-loader": "^0.8.2",
+    "tslint": "^3.13.0",
+    "typescript": "^1.8.10",
+    "typings": "^1.3.2",
+    "webpack": "^1.13.1",
+    "webpack-dev-server": "^1.14.1"
+  }
+}

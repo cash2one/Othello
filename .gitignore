@@ -1,0 +1,11 @@
+/output
+npm-debug.log
+router.sublime-project
+router.sublime-workspace
+.DS_Store
+.project
+.swp
+/node_modules
+/typings
+/.idea
+/.settings

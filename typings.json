@@ -1,0 +1,19 @@
+{
+  "name": "cory",
+  "dependencies": {},
+  "globalDependencies": {
+    "bluebird": "registry:dt/bluebird#2.0.0+20160701023356",
+    "core-js": "registry:dt/core-js#0.0.0+20160602141332",
+    "eventemitter3": "registry:dt/eventemitter3#1.1.1+20151208234524",
+    "express": "registry:dt/express#4.0.0+20160708185218",
+    "express-serve-static-core": "registry:dt/express-serve-static-core#4.0.0+20160715232503",
+    "jasmine": "registry:dt/jasmine#2.2.0+20160621224255",
+    "karma": "registry:dt/karma#0.13.9+20160720063042",
+    "log4js": "registry:dt/log4js#0.0.0+20160608042355",
+    "mime": "registry:dt/mime#0.0.0+20160316155526",
+    "node": "registry:dt/node#6.0.0+20160720070758",
+    "reflect-metadata": "registry:dt/reflect-metadata#0.0.0+20160630155503",
+    "serve-static": "registry:dt/serve-static#0.0.0+20160606155157",
+    "string": "registry:dt/string#0.0.0+20160316155526"
+  }
+}

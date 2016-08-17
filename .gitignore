@@ -6,6 +6,8 @@ router.sublime-workspace
 .project
 .swp
 Othello.iml
+/tests/report.html
+/tests/coverage
 /node_modules
 /typings
 /.idea

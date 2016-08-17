@@ -5,6 +5,7 @@ router.sublime-workspace
 .DS_Store
 .project
 .swp
+Othello.iml
 /node_modules
 /typings
 /.idea
